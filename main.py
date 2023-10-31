@@ -1,4 +1,5 @@
-"""Работа студента группы ИВТ-11БО Евлампьева Александра"""
+"""Работа студента группы ИВТ-11БО Евлампьева Александра
+   Github: https://github.com/AEvlampev/strassen_algorithm"""
 
 
 from random import randint
